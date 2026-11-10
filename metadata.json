@@ -1,0 +1,7 @@
+{
+  "name": "QuickMinute - Alat Kilat & Fokus 1 Menit",
+  "description": "Aplikasi serba kilat untuk produktivitas 1 menit: Timer Fokus Kilat, Latihan Nafas 60 Detik, Speed Test, dan Catatan Instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
